@@ -21,9 +21,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" width="40" height="40"/> </a> <a href="https://mysql.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.react.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://splunk.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="splunk" width="40" height="40"/> </a> <a href="https://elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BHATDAVOOD&show_icons=true&locale=en&layout=compact" alt="BHATDAVOOD" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BHATDAVOOD&show_icons=true&locale=en" alt="BHATDAVOOD" /></p>
+## 👨‍💻 Github Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BHATDAVOOD&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BHATDAVOOD&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BHATDAVOOD&theme=city_lights) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BHATDAVOOD&theme=city_lights) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BHATDAVOOD&theme=city_lights&utcOffset=3) 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BHATDAVOOD&" alt="BHATDAVOOD" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BHATDAVOOD" alt="bhatdavood" /></a> </p>
